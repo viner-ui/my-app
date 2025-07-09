@@ -1,0 +1,10 @@
+{
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "list_title": "Repositories",
+    "detail_title": "Details",
+    "search_placeholder": "Search…",
+    "wrong_creds": "Wrong credentials",
+    "logout": "Logout"
+  }

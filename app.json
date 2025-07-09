@@ -16,7 +16,13 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "icon": "./assets/images/icon.png",
+      "notification": {
+        "icon": "./assets/images/ic_notification.png",
+        "color": "#FF231F7C"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.myapp"
     },
     "web": {
       "bundler": "metro",

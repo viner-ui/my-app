@@ -1,0 +1,10 @@
+{
+    "login": "Войти",
+    "username": "Логин",
+    "password": "Пароль",
+    "list_title": "Репозитории",
+    "detail_title": "Детали",
+    "search_placeholder": "Поиск…",
+    "wrong_creds": "Неверный логин или пароль",
+    "logout": "Выйти"
+  }
